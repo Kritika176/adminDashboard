@@ -1,0 +1,14 @@
+.navbarContainer{
+  width:100%;
+  height:7%;
+  background-color:rgb(237,242,247);
+  display: flex;
+ justify-content: space-around;
+ align-items: center;
+}
+.navItems:hover{
+  background-color: blue;
+  color:white;
+  cursor: pointer;
+}
+
